@@ -1,0 +1,136 @@
+cv:
+  name: Jeff Forbes
+  label: Computer science and AI education, workforce, and national research policy
+  email: jforbes@stanfordalumni.org
+  image: ""
+  summary: Computer scientist and national leader in computing education, AI education, and workforce development.
+
+  social_networks:
+    - network: GitHub
+      username: jrnf
+
+  sections:
+    Experience:
+      - company: Computing Research Association (CRA)
+        position: Director of Strategic Initiatives and Partnerships
+        start_date: 2025
+        end_date: present
+        summary: Works with CRA's Committee on Widening Participation and CRA's artificial intelligence education projects to improve and broaden access to computer science and AI education.
+
+      - company: National Science Foundation, Directorate for Computer & Information Science & Engineering (CISE)
+        position: Lead Program Director, Education & Workforce
+        start_date: 2019
+        end_date: 2025
+        summary: Led federal efforts to support communities of educators and researchers developing innovative approaches to build a robust workforce well prepared for careers in tech.
+
+      - company: Georgia Institute of Technology
+        position: Director of Research & Policy, Constellations Center for Equity in Computing
+        start_date: 2020
+        end_date: 2021
+
+      - company: National Science Foundation, Directorate for Computer & Information Science & Engineering (CISE)
+        position: Expert
+        start_date: 2016
+        end_date: 2019
+
+      - company: Duke University
+        position: Associate Professor of the Practice of Computer Science
+        start_date: 2010
+        end_date: 2019
+        highlights:
+          - Associate Dean of Trinity College of Arts & Sciences (2014-2017)
+          - Director, Trinity College Office of Course & Curriculum Development (2015-2017)
+
+      - company: National Science Foundation, Directorate for Computer & Information Science & Engineering (CISE)
+        position: Program Director, Computing Education and Workforce
+        start_date: 2011
+        end_date: 2014
+
+      - company: Duke University
+        position: Assistant Professor of the Practice of Computer Science
+        start_date: 2002
+        end_date: 2010
+
+      - company: Duke University
+        position: Lecturer of Computer Science
+        start_date: 2001
+        end_date: 2002
+
+    Education:
+      - institution: University of California, Berkeley
+        area: Computer Science
+        studyType: PhD
+        end_date: 2002
+        highlights:
+          - "Thesis: Reinforcement Learning for Autonomous Vehicles (advisor: Stuart Russell)"
+
+      - institution: Stanford University
+        area: Computer Science
+        studyType: BS
+        end_date: 1993
+
+    Awards:
+      - title: ACM Distinguished Member
+        date: 2023
+        awarder: Association for Computing Machinery
+
+      - title: Distinguished Alumni Scholar
+        date: 2013
+        awarder: Stanford University
+
+      - title: National Defense Science and Engineering Graduate Fellowship
+        awarder: U.S. Department of Defense
+
+    Volunteer:
+      - company: ACM Education Policy Committee
+        position: Chair
+        start_date: 2015
+        end_date: 2018
+
+      - company: Coalition to Diversify Computing
+        position: Co-Chair
+        start_date: 2015
+        end_date: 2016
+
+      - company: CS For All Consortium
+        position: Member, Board and Steering Committee
+        start_date: 2016
+        end_date: 2019
+
+      - company: Computing Research Association, Education Committee
+        position: Member
+        start_date: 2014
+        end_date: 2018
+
+    Publications:
+      - title: "Expanding the Pipeline: Roadmap of CISE's Efforts to Broaden Participation in Computing Through the Years"
+        authors:
+          - J. Forbes
+          - A. Kennedy
+          - M. Martonosi
+          - F. Pembleton
+        publisher: Computing Research News
+        releaseDate: 2023-02-01
+
+      - title: "Lighting the Path: From Community College to Computing Careers"
+        authors:
+          - L. Lyon
+          - J. Forbes
+        publisher: ACM Education Policy Committee
+        releaseDate: 2018-01-01
+
+      - title: "The Importance of Computing Education Research (white paper)"
+        authors:
+          - S. Cooper
+          - J. Forbes
+          - A. Fox
+          - S. Hambrusch
+          - A. Ko
+          - B. Simon
+        publisher: Computing Community Consortium, Computing Research Association
+        releaseDate: 2016-01-14
+
+    Skills:
+      - name: Focus areas
+        icon: fa-solid fa-hashtag
+        keywords: "Machine Learning, Computer Science Education, AI Education, Learning Analytics, Workforce Development, Broadening Participation, Federal Research Funding, Program Strategy"
