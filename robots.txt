@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jrnf.github.io/sitemap.xml
